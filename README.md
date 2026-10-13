@@ -1,7 +1,10 @@
 # NBWR-Fitness101
-Noble Bloom Wellness Resort's Fitness 101 program
 README – Intellectual Property & Use Notice
+
+Noble Bloom Wellness Resort's Fitness 101 program
+
 © 2026 StrongHer Consulting, LLC. All Rights Reserved.
+© 2026 Noble Bloom Wellness Resort, All Rights Reserved.
 
 Welcome to this repository.
 
